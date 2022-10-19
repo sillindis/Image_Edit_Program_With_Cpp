@@ -1,0 +1,9 @@
+LOAD
+ADD new_files new_filesnumbers.csv
+MODIFY img_files "the man is gorgeous" 303
+MOVE
+PRINT
+SEARCH "is" "are"
+SELECT 300
+EDIT -f
+EXIT
