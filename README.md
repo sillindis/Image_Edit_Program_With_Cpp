@@ -5,8 +5,7 @@ Using Language: C++
 Using Data structure(implement it myself): 2D Linked List, Binary Search Tree, Queue, Stack
 
 How to run:
-1. open .sln
-Image_Edit_Program_With_C++ \ Image_Edit_Program_With_Cpp \ ImageEditProgram.sln
+1. open 'ImageEditProgram.sln'
 2. open 'command.txt' and modify command
 3. run 'main.cpp'
 4. look 'log.txt' that it created through practice
